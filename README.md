@@ -7,4 +7,4 @@ This project is a template for building a Next.js application with Bun as the pa
 - Node.js (version 16 or higher)
 - Bun (version 1.0 or higher)
 
-<img src="https://github.com/phonsing-Hub/shadcn-ui/blob/main/public/shadcnUI.png" alt="Image"/>
+<img src="https://github.com/phonsing-Hub/shadcn-ui/blob/main/public/Shadcn-UI.png" alt="Image"/>
